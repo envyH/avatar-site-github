@@ -17,7 +17,7 @@
 - Thêm form cài đặt cho Auto Kim cương
 - Thêm bán vật nuôi(no check)
 - Thêm chức năng kiểm tra tài khoản đã đăng ký hoặc chưa
-- Cập nhật thông tin xu lượng theo thời gian thực đầy đủ hơn
+- Cập nhật thông tin xu lượng theo thời gian thực\n(đầy đủ hơn)
 - Tối ưu Auto Quay số
 - Cập nhật giao diện Popup Shop
 - Tối ưu form cài đặt sự kiện
