@@ -67,7 +67,8 @@ gợi ý cây trồng , mua vật phẩm,..
 - Thêm tự động chuyển hạt giống nếu đạt ngưỡng
 (cần cài đặt)
 - Tối ưu tìm khu trống khi bán đá
-- Thêm tự động mua vé(lóc), cần câu(tre) khi AutoFishing
+- Thêm tự động mua vé (lóc), cần câu (tre) khi
+AutoFishing
 - Thêm tự động bán đá khi AutoFishing
 - Sửa lỗi cập nhật username, password
 - Sửa lỗi mua vật phẩm khi mất kết nối
@@ -140,8 +141,9 @@ tự động
 - Sửa lỗi không thể lấy dữ liệu **Auto chuyển xèng**
 - Tối ưu **Menu NPC**
 - Tối ưu giao diện: Giờ đây nếu rương bạn có nhiều
-loại vật phẩm **cùng loại** nhưng khác màu (tóc,..) sẽ **in màu** của chúng
-- Tối ưu giao diện: **Cài đặt** mặc định của game giờ trông trực quan hơn (Thêm tuỳ chọn **ngôn ngữ**)
+loại vật phẩm **cùng loại** nhưng khác màu (tóc,..) sẽ 
+**in màu** của chúng
+- Tối ưu giao diện **Cài đặt** mặc định của game giờ trông trực quan hơn (Thêm tuỳ chọn **ngôn ngữ**)
 - Tối ưu **Auto nâng cấp item**
 - Tối ưu **Auto NPC** (Tìm kiếm, Tấn công)
 - Tối ưu **Auto Quay số**, sửa lỗi không xoá item rác tại
@@ -167,7 +169,8 @@ cá)
 - Thêm **tự động bỏ KCX** khi **câu cá**
 - Thêm hộp thoại xác nhận khi **xoá bạn bè**
 - Tối ưu giao diện: khi dùng chức năng **tặng quà** sẽ
-hiển thị người chơi **được tặng** thay vì **chính bản thân** như bản gốc
+hiển thị người chơi **được tặng** thay vì **chính bản thân**
+như bản gốc
 
 
 ## Cập nhật ngày 16/05/2025
